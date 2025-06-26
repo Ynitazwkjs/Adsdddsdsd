@@ -1,6 +1,7 @@
 <div dir="ltr" align=center>
     
-[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) فارسی**](README_fa.md) / [**Русский 🇷🇺**](README_ru.md) / [**简体中文 🇨🇳**](README_cn.md) / [**日本語 🇯🇵**](README_ja.md) / [**Portugês-BR 🇧🇷**](README_br.md)
+[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) فارسی**](README_fa.md) / [**English 🇺🇸**](README.md) / [**Русский 🇷🇺**](README_ru.md) / [**简体中文 🇨🇳**](README_cn.md) / [**日本語 🇯🇵**](README_ja.md)
+
 
 </div>
 <br>
@@ -21,72 +22,73 @@
 
 
 
+## O que é Hiddify app?
 
-## What is Hiddify app?
-
-<p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
+<p dir="ltr" style="font-size: 16px">Um cliente de proxy multiplataforma baseado na ferramenta de proxy universal <a href="https://github.com/SagerNet/sing-box">Sing-box</a>. O Hiddify oferece uma ampla gama de recursos, como seleção automática de nós, modo TUN, perfis remotos, etc. O Hiddify é livre de anúncios e de código aberto. Com suporte para uma ampla variedade de protocolos, ele oferece uma maneira segura e privada de acessar a internet gratuitamente.</p>
 
 <div align=center>
 <img width=90% alt="English Demo" src="https://github.com/hiddify/hiddify-next/assets/125398461/ffe5346d-3404-470f-b5e0-4364e23743d2">
 
 </div>
 
-## 🚀 Main features
+## 🚀 Principais recursos
 
-✈️ Multi-platform: Android, iOS, Windows, macOS and Linux
+✈️ Multiplataforma: Android, iOS, Windows, macOS e Linux
 
-⭐ Intuitive and accessible UI
+⭐ Interface intuitiva e acessível
 
-🔍 Delay based node selection
+🔍 Seleção de nós baseada em atraso
 
-🟡 Wide range of protocols:
-Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
+🟡 Amplas opções de protocolos:
+Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH, etc.
 
-🟡 Subscription link and configuration formats: Sing-box, V2ray, Clash, Clash meta
+🟡 Links de assinatura e formatos de configuração: Sing-box, V2ray, Clash, Clash meta
 
-🔄 Automatic subscription update
+🔄 Atualização automática de assinatura
 
-🔎 Display profile information including remaining days and traffic usage
+🔎 Exibição de informações do perfil, incluindo dias restantes e uso de tráfego
 
-🛡 Open source, secure and community driven
+🛡 Código aberto, seguro e impulsionado pela comunidade
 
-🌙 Dark and light modes
+🌙 Modos escuro e claro
 
-⚙ Compatible with all proxy management panels
+⚙ Compatível com todos os painéis de gerenciamento de proxy
 
-⭐ Appropriate configuration for Iran, China, Russia and other countries
+⭐ Configuração adequada para Irã, China, Rússia e outros países
 
-📱 Available on official stores
+📱 Disponível nas lojas oficiais
 
-## 🛍️ Get It On Stores
-<a href="https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone"><img height=50px src="https://github.com/user-attachments/assets/a7c62126-07ce-4f18-8197-bbb672f6d8be"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.microsoft.com/detail/Hiddify/9pdfnl3qv2s5?mode=mini" target="_blank"><img height=50px src="https://github.com/hiddify/hiddify-next/assets/125398461/620750bb-4459-41b5-9f86-ba82119345b8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## 🛍️ Obtenha nas lojas
+
+<a href="https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone"><img height=50px src="https://github.com/user-attachments/assets/a7c62126-07ce-4f18-8197-bbb672f6d8be"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://apps.microsoft.com/detail/Hiddify/9pdfnl3qv2s5?mode=mini" target="_blank"><img height=50px src="https://github.com/hiddify/hiddify-next/assets/125398461/620750bb-4459-41b5-9f86-ba82119345b8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-## 📥 Direct Download
+## 📥 Download direto
 
 <div align=left>
 <table>
     <thead align=left>
         <tr>
-            <th>OS</th>
+            <th>Sistema Operacional</th>
             <th>Download</th>
         </tr>
     </thead>
     <tbody align=left>
         <tr>
-        <td>iOS</td>
+            <td>iOS</td>
             <td>
                 <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-iOS.ipa"><img src="https://img.shields.io/badge/IPA-Universal-c0c0c0.svg?logo=ios"></a>
             </td>
         </tr>
         <tr>
-        <td>Android</td>
-            <td>
-                <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
-                <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-arm64.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
-                <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-arm7.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
-                <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-x86_64.apk"><img src="https://img.shields.io/badge/APK-x64-96ed89.svg?logo=android"></a>
-            </td>
+        <td>Android</td><td>
+            <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
+            <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-arm64.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
+            <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-arm7.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
+            <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-x86_64.apk"><img src="https://img.shields.io/badge/APK-x64-96ed89.svg?logo=android"></a>
+        </td>
         </tr>
         <tr>
             <td>Windows</td>
@@ -106,11 +108,11 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
         </tr>
         <tr>
             <td>Linux</td>
-            <td>
+           <td>
                 <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Linux-x64.AppImage"><img src="https://img.shields.io/badge/AppImage-x64-f84e29.svg?logo=linux"> </a><br>
                 <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Debian-x64.deb"><img src="https://img.shields.io/badge/DebPackage-x64-FF9966.svg?logo=debian"> </a><br>
                 <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-rpm-x64.rpm"><img src="https://img.shields.io/badge/RpmPackage-x64-F1B42F.svg?logo=redhat"> </a>
-            </td>
+           </td>
         </tr>
     </tbody>
 </table>
@@ -118,9 +120,9 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
 </div>
 
-## ⚙️ Installation and tutorials
+## ⚙️ Instalação e tutoriais
 
-**Find tutorial information on our wiki page by clicking on image below.**
+**Encontre informações de tutoriais em nossa página wiki clicando na imagem abaixo.**
 
 <div align="center">
 
@@ -129,18 +131,18 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
 </div>
 
-## 🌎 Translations
+## 🌎 Tradução
 
 <div align=center>
     
 [![inlang status badge](https://inlang.com/badge?url=github.com/hiddify/hiddify-next)](https://inlang.com/editor/github.com/hiddify/hiddify-next?ref=badge)
 </div>
 
-Improve existing languages or add new ones by manually editing the JSON files located in `/assets/translations` or by using the [Inlang online editor](https://inlang.com/editor/github.com/hiddify/hiddify-next).
+Melhore os idiomas existentes ou adicione novos editando manualmente os arquivos JSON localizados em `/assets/translations` ou usando o [editor online Inlang](https://inlang.com/editor/github.com/hiddify/hiddify-next).
 
-## ✏️ Acknowledgements
+## ✏️ Agradecimentos
 
-We would like to express our sincere appreciation to the contributors of the following projects, whose robust foundation and innovative features have significantly enhanced the success and functionality of this project.
+Gostaríamos de expressar nossa sincera gratidão aos contribuidores dos seguintes projetos, cuja base sólida e recursos inovadores têm melhorado significativamente o sucesso e a funcionalidade deste projeto.
 
 - [Sing-box](https://github.com/SagerNet/sing-box)
 - [Sing-box for Android](https://github.com/SagerNet/sing-box-for-android)
@@ -151,22 +153,21 @@ We would like to express our sincere appreciation to the contributors of the fol
 - [Vazirmatn Font by Saber Rastikerdar](https://github.com/rastikerdar/vazirmatn)
 - [Others](./pubspec.yaml)
 
-## 🎯 Donation and Support
+## 🎯 Doação e Suporte
 
-The easiest way to support us is to click on the star (⭐) at the top of this page.
+A maneira mais fácil de nos apoiar é clicar na estrela (⭐) no topo desta página.
+
+<div align=center>
     
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=643504282" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=643504282&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Star History of hiddify/hiddify-app" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=643504282&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
+<img alt="Star History Chart" width=50% src="https://api.star-history.com/svg?repos=Hiddify/hiddify-next&type=Date)](https://star-history.com/#Hiddify/hiddify-next&Date" />
 
-We also need financial support for our services. All of our activities are done voluntarily and financial support will be spent on the development of the project. You can view our support addresses [here](https://github.com/hiddify/hiddify-server/wiki/support).
+</div>
 
-## 👩‍🏫 Collaboration and Contact Information
+Também precisamos de apoio financeiro para nossos serviços. Todas as nossas atividades são realizadas voluntariamente e o apoio financeiro será utilizado no desenvolvimento do projeto. Você pode ver nossos links de suporte [aqui](https://github.com/hiddify/hiddify-server/wiki/support).
 
-Hiddify is a community driven project. If you're interested in contributing, please read the [contribution guidelines](./CONTRIBUTING.md). We would specially appreciate any help we can get in these areas: **Flutter, Go, iOS development (Swift), Android development (Kotlin).**
+## 👩‍🏫 Colaboração e Informações de Contato
+
+Hiddify é um projeto impulsionado pela comunidade. Se você estiver interessado em contribuir, por favor, leia as [diretrizes de contribuição](./CONTRIBUTING.md). Agradeceríamos especialmente qualquer ajuda que pudermos obter nessas áreas: **Flutter, Go, desenvolvimento iOS (Swift), desenvolvimento Android (Kotlin).**
 
 <div align=center>
 
@@ -181,7 +182,7 @@ Hiddify is a community driven project. If you're interested in contributing, ple
 </div>
 
 <p align=center>
- We appreciate all people who are participating in this project. Some people here and many many more outside of Github. It means a lot to us. ♥
+Agradecemos a todas as pessoas que estão participando deste projeto. Algumas pessoas aqui e muitas outras fora do Github. Isso significa muito para nós. ♥
  </p>
  
 <p align=center> 
@@ -190,12 +191,5 @@ Hiddify is a community driven project. If you're interested in contributing, ple
 </a>
 </p>
 <p align=center>
- Made with <a rel="" target="_blank" href="https://contrib.rocks">Contrib.Rocks</a> 
+ Feito com <a rel="" target="_blank" href="https://contrib.rocks">Contrib.Rocks</a> 
 </p>
-
-
-
-
-
-
-
